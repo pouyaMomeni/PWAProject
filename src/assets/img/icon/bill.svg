@@ -1,0 +1,11 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="56" height="56" rx="28" fill="#0B961E" fill-opacity="0.04"/>
+<path d="M41.3333 20V23.2267C41.3333 25.3334 40 26.6667 37.8933 26.6667H33.3333V17.3467C33.3333 15.8667 34.5467 14.6667 36.0267 14.6667C37.48 14.68 38.8134 15.2667 39.7734 16.2267C40.7334 17.2 41.3333 18.5334 41.3333 20Z" stroke="#65B554" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M41.3333 20V23.2267C41.3333 25.3334 40 26.6667 37.8933 26.6667H33.3333V17.3467C33.3333 15.8667 34.5467 14.6667 36.0267 14.6667C37.48 14.68 38.8134 15.2667 39.7734 16.2267C40.7334 17.2 41.3333 18.5334 41.3333 20Z" stroke="black" stroke-opacity="0.15" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.6667 21.3334V40C14.6667 41.1067 15.92 41.7334 16.8 41.0667L19.08 39.36C19.6133 38.96 20.36 39.0134 20.84 39.4934L23.0533 41.72C23.5733 42.24 24.4267 42.24 24.9467 41.72L27.1867 39.48C27.6533 39.0134 28.4 38.96 28.92 39.36L31.2 41.0667C32.08 41.72 33.3333 41.0934 33.3333 40V17.3334C33.3333 15.8667 34.5333 14.6667 36 14.6667H21.3333H20C16 14.6667 14.6667 17.0534 14.6667 20V21.3334Z" stroke="#65B554" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.6667 21.3334V40C14.6667 41.1067 15.92 41.7334 16.8 41.0667L19.08 39.36C19.6133 38.96 20.36 39.0134 20.84 39.4934L23.0533 41.72C23.5733 42.24 24.4267 42.24 24.9467 41.72L27.1867 39.48C27.6533 39.0134 28.4 38.96 28.92 39.36L31.2 41.0667C32.08 41.72 33.3333 41.0934 33.3333 40V17.3334C33.3333 15.8667 34.5333 14.6667 36 14.6667H21.3333H20C16 14.6667 14.6667 17.0534 14.6667 20V21.3334Z" stroke="black" stroke-opacity="0.15" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 24H28" stroke="#65B554" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 24H28" stroke="black" stroke-opacity="0.15" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21 29.3333H27" stroke="#65B554" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21 29.3333H27" stroke="black" stroke-opacity="0.15" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
